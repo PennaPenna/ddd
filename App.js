@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Alert, StyleSheet, Text, View, Button, TextInput, FlatList, Image, onError } from 'react-native';
+import { Alert, StyleSheet, Text, View, Button, TextInput, FlatList, Image } from 'react-native';
 
 export default function App() {
   const [ingredient, setIngredient] = useState('');
