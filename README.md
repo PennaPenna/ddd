@@ -1,1 +1,3 @@
-Projektikansio ilman node_modules -kansiota!!
+A Simple recipe finder using API from http://www.recipepuppy.com.
+Find recipes by ingredients.
+Mady with React Native.
